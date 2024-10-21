@@ -1,5 +1,7 @@
 # Custom-Progress-Bar
-For best experience autohotkey may be needed
+Instructions:
+In the title field, type in the Title
+In the time field please specify time in seconds
 
 Version                  Compatibility
 Windows 11 24H2          Yes
