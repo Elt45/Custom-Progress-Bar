@@ -1,34 +1,11 @@
-# Custom-Progress-Bar
-Instructions:
-In the title field, type in the Title
-In the time field please specify time in seconds
-
-Version                  Compatibility
-Windows 11 24H2          Yes
-Windows 11 23H2          Yes
-Windows 11 22H2          Yes
-Windows 10 22H2          Yes
-Windows Server 2022      Yes
-Windows 10 21H2          Yes
-Windows 10 20H1          Limited
-Windows Server 2019      Limited
-Windows 10 RTM           Limited
-Windows Server 2016      Limited
-Windows 8.1              Limited
-Windows Server 2012R2    Limited
-Windows 8                Limited
-Windows 7 or older       Limited
-Mac (any version)        No
-Linux (any version)      No
-iOS                      No
-Android                  No
-Other                    No
-
-
-Rename Any Of these files with ease
+## Custom Progress Bar
+Custom progress bar is a free progress bar creating software that can make fake progress bars. You can specify the duration and the title of the progress bar
+Supports Windows 7,8,8.1,10,11 
+Support for windows 7 may be potentially limited
+The support are tested on Virtual Machines thourgh Oracle VirtualBox with windows 7,8 and 8.1 being allocated 2.62144 GB ram and 10-11 with 6GB ram
 
 Note:
 Feel free to copy, paste, edit, and share these files without any limitations. The only restriction is that you cannot edit or commit changes to the original webpage.
-Version: 2.0
 
 Enjoy! 
+
