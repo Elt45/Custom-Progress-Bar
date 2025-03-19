@@ -1,11 +1,17 @@
 ## Custom Progress Bar
-Custom progress bar is a free progress bar creating software that can make fake progress bars. You can specify the duration and the title of the progress bar
-Supports Windows 7,8,8.1,10,11 
-Support for windows 7 may be potentially limited
-The support are tested on Virtual Machines thourgh Oracle VirtualBox with windows 7,8 and 8.1 being allocated 2.62144 GB ram and 10-11 with 6GB ram
+This is an open source project in creating custom windows progress bars through autohotkey. 
+#### Compatibility
+This application works on windows 7,8,8.1,10,11 and any beta version in between.
 
-Note:
-Feel free to copy, paste, edit, and share these files without any limitations. The only restriction is that you cannot edit or commit changes to the original webpage.
+Requires at least 64MB RAM, but it is recommended to have at least 1GB of RAM.
 
-Enjoy! 
 
+
+__Does not work on ARM64 - Do not download this on a any ARM64 device__
+
+No administrator privileges are required to download this file.
+(Portable)
+
+
+
+Custom Progress Bar © 2024 is licensed under CC BY-SA 4.0 
